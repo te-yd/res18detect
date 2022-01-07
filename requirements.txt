@@ -1,0 +1,5 @@
+torch
+torchvision
+pyqt5
+pyqtchart
+numpy
